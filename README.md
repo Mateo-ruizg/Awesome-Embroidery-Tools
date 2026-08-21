@@ -10,6 +10,7 @@ A curated collection of embroidery tools, machine resources, file format guides,
 - Wilcom (Professional Software)
 - Hatch Embroidery
 - Embrilliance
+- [Embroidery Pricing Calculator](https://embroiderypricingcalculator.com) - Free online calculator for embroidery pricing by stitches, fabric, and labor.
 
 ---
 
