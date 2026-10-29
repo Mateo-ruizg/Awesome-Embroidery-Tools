@@ -7,6 +7,7 @@ A curated collection of embroidery tools, machine resources, file format guides,
 ## 🧵 Embroidery Software
 
 - Ink/Stitch (Free & Open Source)
+- OpenStitch Studio (Free & Open Source) – https://github.com/lb2002/openstitch
 - Wilcom (Professional Software)
 - Hatch Embroidery
 - Embrilliance
